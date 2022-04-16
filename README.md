@@ -1,2 +1,3 @@
-# hid
-Codebase for human interaction detection (HID).
+# Human Interaction Detection
+**Coming soon！**
+
